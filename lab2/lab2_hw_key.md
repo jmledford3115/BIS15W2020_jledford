@@ -58,7 +58,7 @@ msleep
 ## # … with 73 more rows, and 2 more variables: brainwt <dbl>, bodywt <dbl>
 ```
 
-1. From which publication are these data taken from? Don't do an internet search; show the code that you would use to find out in R.  
+**1. From which publication are these data taken from? Don't do an internet search; show the code that you would use to find out in R.**  
 _V. M. Savage and G. B. West. A quantitative, theoretical framework for understanding mammalian sleep. Proceedings of the National Academy of Sciences, 104 (3):1051-1056, 2007._  
 
 2. Put these data into a new object `sleep`. Make sure they are organized as a data frame.  
@@ -239,7 +239,7 @@ sleep
 ## 83         <NA>         9.8       2.4   0.3500000 14.20 0.05040    4.230
 ```
 
-3. Show a list of the column names is this data frame.
+**3. Show a list of the column names is this data frame.**
 
 ```r
 names(sleep)
@@ -251,7 +251,7 @@ names(sleep)
 ## [11] "bodywt"
 ```
 
-4. Use `glimpse()` to summarize the data in `sleep`.
+**4. Use `glimpse()` to summarize the data in `sleep`.**
 
 ```r
 glimpse(sleep)
@@ -273,7 +273,7 @@ glimpse(sleep)
 ## $ bodywt       <dbl> 50.000, 0.480, 1.350, 0.019, 600.000, 3.850, 20.490, 0.0…
 ```
 
-5. Use `summary()` to summarize the data in `sleep`.
+**5. Use `summary()` to summarize the data in `sleep`.**
 
 ```r
 summary(sleep)
@@ -306,7 +306,7 @@ summary(sleep)
 ##                  NA's   :27
 ```
 
-6. Print out the first column of the data frame and then print out the first row.
+**6. Print out the first column of the data frame and then print out the first row.**
 
 ```r
 sleep[,1]
@@ -369,7 +369,7 @@ sleep[1,]
 ## 1          NA  11.9      NA     50
 ```
 
-7. We are interested in two groups; small and large mammals. Let's define small as less than or equal to 1kg body weight and large as greater than or equal to 200kg body weight. Make two new dataframes (large and small) based on these parameters.  
+**7. We are interested in two groups; small and large mammals. Let's define small as less than or equal to 1kg body weight and large as greater than or equal to 200kg body weight. Make two new dataframes (large and small) based on these parameters.**  
 
 
 ```r
@@ -479,7 +479,7 @@ small
 ## 79         <NA>         8.9       2.6   0.2333333  15.1 0.00250  0.104
 ```
 
-8. What is the mean weight for both the large and small mammals?
+**8. What is the mean weight for both the large and small mammals?**
 
 ```r
 mean(large$bodywt)
@@ -498,7 +498,7 @@ mean(small$bodywt)
 ## [1] 0.2596667
 ```
 
-9. Let's try to figure out if large mammals sleep, on average, longer than small mammals. What is the average sleep duration for large mammals as we have defined them?
+**9. Let's try to figure out if large mammals sleep, on average, longer than small mammals. What is the average sleep duration for large mammals as we have defined them?**
 
 ```r
 mean(large$sleep_total, na.rm=T)
@@ -508,7 +508,7 @@ mean(large$sleep_total, na.rm=T)
 ## [1] 3.3
 ```
 
-10. What is the average sleep duration for small mammals as we have defined them?
+**10. What is the average sleep duration for small mammals as we have defined them?**
 
 ```r
 mean(large$sleep_total, na.rm=T)
@@ -518,7 +518,7 @@ mean(large$sleep_total, na.rm=T)
 ## [1] 3.3
 ```
 
-11. Which animals are the sleepiest? Which sleep least 18 hours per day?  
+**11. Which animals are the sleepiest? Which sleep least 18 hours per day?**  
 
 ```r
 sleepy <- subset(sleep, sleep_total>=18)
