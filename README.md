@@ -4,6 +4,7 @@
 > Welcome! This repository includes homework, keys, notes, and additional lessons for BIS 15L at UC Davis.
 
 ## Author
+> If you have questions, please email me.  
 
 [Joel Ledford](mailto:jmledford@ucdavis.edu)  
 
