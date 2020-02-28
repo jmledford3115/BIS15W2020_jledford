@@ -1,6 +1,7 @@
-# BIS 15L Homework Repository
+<img src="icon.png" align="right" />
 
-Welcome! This repository includes homework, keys, notes, and additional lessons for BIS 15L at UC Davis.
+# BIS 15L Homework Repository [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> Welcome! This repository includes homework, keys, notes, and additional lessons for BIS 15L at UC Davis.
 
 ## Author
 
