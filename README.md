@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# BIS 15L Homework Repository [![BIS 15L](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://jmledford3115.github.io/datascibiol/)
+# BIS 15L Homework Repository
 > Welcome! This repository includes homework, keys, notes, and additional lessons for BIS 15L at UC Davis.
 
 ## Author
