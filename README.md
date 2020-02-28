@@ -1,4 +1,13 @@
-# BIS15W2020_jledford
-# [Joel Ledford](mailto:jmledford@ucdavis.edu)  
+# BIS 15L Homework Key Repository
 
-If you are confused about what should be in your repository, then have a look here. I will also post my class notes, examples, answer keys, and other special problems in this repository.  
+Welcome! This repository includes keys, notes, and additional lessons for BIS 15L at UC Davis.
+
+## Author
+
+[Joel Ledford](mailto:jmledford@ucdavis.edu)  
+
+## Class Links
+
+* [BIS 15L Webpage](https://jmledford3115.github.io/datascibiol/)
+* [datascibiol repository](https://github.com/jmledford3115/datascibiol)
+* [College of Biological Sciences](https://biology.ucdavis.edu/
