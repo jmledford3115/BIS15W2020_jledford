@@ -1,6 +1,6 @@
-# BIS 15L Homework Key Repository
+# BIS 15L Homework Repository
 
-Welcome! This repository includes keys, notes, and additional lessons for BIS 15L at UC Davis.
+Welcome! This repository includes homework, keys, notes, and additional lessons for BIS 15L at UC Davis.
 
 ## Author
 
@@ -10,4 +10,4 @@ Welcome! This repository includes keys, notes, and additional lessons for BIS 15
 
 * [BIS 15L Webpage](https://jmledford3115.github.io/datascibiol/)
 * [datascibiol repository](https://github.com/jmledford3115/datascibiol)
-* [College of Biological Sciences](https://biology.ucdavis.edu/
+* [College of Biological Sciences](https://biology.ucdavis.edu/)
